@@ -21,4 +21,4 @@ Puzzle-Quest est un jeu de puzzle en Python où le joueur doit résoudre divers 
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/PuzzleQuest.git
+   git clone https://github.com/franckolangas/PuzzleQuest.git
